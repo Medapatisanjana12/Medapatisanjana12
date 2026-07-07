@@ -120,7 +120,7 @@ My core passion lies in turning raw, unstructured data into actionable insights 
 - **The Problem:** Candidates struggle to optimize resumes for Applicant Tracking Systems (ATS), leading to automated rejections.
 - **The Solution:** Developed a Streamlit web application that matches resumes against job descriptions. Utilized NLP for keyword matching and integrated Gemini API to deliver personalized skill-gap insights.
 - **Tech Stack:** `Python`, `Streamlit`, `Gemini API`, `NLP (Spacy/NLTK)`, `Scikit-Learn`.
-- **Real-World Impact:** Generated custom ATS scores and clear instructions on how to fill gaps. Added a real-time gamified Leaderboard to foster engagement.https://github.com/Medapatisanjana12/ResumeScoreCheckerhttps://github.com/Medapatisanjana12)
+- **Real-World Impact:** Generated custom ATS scores and clear instructions on how to fill gaps. Added a real-time gamified Leaderboard to foster engagement.(https://github.com/Medapatisanjana12/ResumeScoreCheckerhttps://github.com/Medapatisanjana12)
 
 ### 🎬 Movie Review Sentiment Analysis Web App
 > **An interactive web portal running a Naive Bayes NLP model for real-time sentiment classification.**
