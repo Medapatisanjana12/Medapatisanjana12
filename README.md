@@ -113,15 +113,14 @@ My core passion lies in turning raw, unstructured data into actionable insights 
 - **The Solution:** Engineered a modular, multi-agent AI system. It features specialized agent micro-services (Code Expert, Data Analyst, Writing Coach, and Career Advisor) that handle routed user requests.
 - **Tech Stack:** `FastAPI`, `React`, `Groq LLMs`, `Python`, `Multi-Agent Architecture`, `JSON Schema`.
 - **Real-World Impact:** Significantly increased response accuracy and context preservation by matching user intent to specialized sub-agents, lowering processing latency via local API orchestration.
-- **Codebase:** [GitHub Repository Link](https://github.com/Medapatisanjana12)
+- **Codebase:** [GitHub Repository Link](https://github.com/Medapatisanjana12/Multi-Assistant-Agent)
 
 ### 📄 AI-Powered Resume Score Checker
 > **An automated ATS parser and resume scoring platform with personalized career gap analyses.**
 - **The Problem:** Candidates struggle to optimize resumes for Applicant Tracking Systems (ATS), leading to automated rejections.
 - **The Solution:** Developed a Streamlit web application that matches resumes against job descriptions. Utilized NLP for keyword matching and integrated Gemini API to deliver personalized skill-gap insights.
 - **Tech Stack:** `Python`, `Streamlit`, `Gemini API`, `NLP (Spacy/NLTK)`, `Scikit-Learn`.
-- **Real-World Impact:** Generated custom ATS scores and clear instructions on how to fill gaps. Added a real-time gamified Leaderboard to foster engagement.
-- **Codebase:** [GitHub Repository Link](https://github.com/Medapatisanjana12)
+- **Real-World Impact:** Generated custom ATS scores and clear instructions on how to fill gaps. Added a real-time gamified Leaderboard to foster engagement.https://github.com/Medapatisanjana12/ResumeScoreCheckerhttps://github.com/Medapatisanjana12)
 
 ### 🎬 Movie Review Sentiment Analysis Web App
 > **An interactive web portal running a Naive Bayes NLP model for real-time sentiment classification.**
@@ -129,7 +128,7 @@ My core passion lies in turning raw, unstructured data into actionable insights 
 - **The Solution:** Trained and optimized a Naive Bayes classifier on text reviews, achieving high accuracy. Deployed the model behind a lightweight Flask web interface.
 - **Tech Stack:** `Flask`, `Python`, `Naive Bayes`, `NLP`, `Scikit-Learn`, `HTML5`, `CSS3`.
 - **Real-World Impact:** Delivered a responsive web UI that classifies reviews as positive or negative in milliseconds, demonstrating complete end-to-end model deployment.
-- **Codebase:** [GitHub Repository Link](https://github.com/Medapatisanjana12)
+- **Codebase:** [GitHub Repository Link](https://github.com/Medapatisanjana12/Movie-reviews)
 
 ---
 
@@ -138,9 +137,9 @@ My core passion lies in turning raw, unstructured data into actionable insights 
 ### 🎯 Problem Solving Profiles
 *Demonstrating a strong grasp of algorithms, data structures, and software engineering principles.*
 
-* **LeetCode:** **600+ Problems Solved** | Max Rating: **1550+** | [Profile Link](https://leetcode.com/u/Medapatisanjana12/)
-* **CodeChef:** **400+ Problems Solved** | Rating: **1250+** | [Profile Link](https://www.codechef.com/users/sanjanamedapa1)
-* **GeeksforGeeks:** **120+ Problems Solved** | [Profile Link](https://www.geeksforgeeks.org/user/medapatisanjana12/)
+* **LeetCode:** **600+ Problems Solved** | Max Rating: **1550+** | [Profile Link](https://leetcode.com/u/medapati_sanjana_0212/)
+* **CodeChef:** **400+ Problems Solved** | Rating: **1250+** | [Profile Link](https://www.codechef.com/users/sanjureddy0212)
+* **GeeksforGeeks:** **120+ Problems Solved** | [Profile Link](https://www.geeksforgeeks.org/profile/medapatisa3yfp)
 * **HackerRank:** 
   - 🌟 **4-Star Badge** in SQL
   - 🌟 **3-Star Badges** in C, Python, Problem Solving
